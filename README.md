@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Yanis
 
-<!--
-**yanischalel/yanischalel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate from Université de Montréal. Three software engineering internships at GoTo spanning React/TypeScript frontend, Java backend pipelines, and infrastructure tooling. Most interested in the seam between production engineering and applied ML.
 
-Here are some ideas to get you started:
+### Recent highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**1st of 77 teams** at the Bell x Mila x BuzzHPC x Kids Help Phone AI Safety Hackathon. Built a multilingual guardrail stacking a fine-tuned mmBERT classifier with a Cohere LLM judge using a five-question chain-of-thought framework. **F1 0.906, recall 0.969.** Presented at the CRIM 40th anniversary conference.
+
+**Ubisoft GameLab Competition 2026** as gameplay programmer, representing UdeM. Unreal Engine 5.6, split-screen local multiplayer, player powers...
+
+**Three internships at GoTo**. Production work across frontend architecture, backend data pipelines, and infrastructure / quality engineering.
+
+### Stack
+
+**Languages:** TypeScript, Python, Java, C++
+**Web:** React, Node.js
+**ML / NLP:** PyTorch, Hugging Face Transformers, BERT / mmBERT, LLM evaluation, chain-of-thought prompting
+**Game dev:** Unreal Engine 5, Blueprints
+**Infra:** AWS, CI/CD, observability
+
+### Contact
+
+[LinkedIn](https://linkedin.com/in/yanischalel) · yanis.chalel@umontreal.ca
+
+Open to Software Engineer and ML Engineer roles. Montreal, remote, or relocation.
