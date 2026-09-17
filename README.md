@@ -8,7 +8,7 @@ Google Cloud with Gemini Enterprise and Antigravity. **ML research assistant** a
 GEODES, the software engineering lab at Université de Montréal. Member of the
 **Cohere Labs Open Science Community**.
 
-## Selected work
+## Recent work
 
 **Crisis-detection guardrail** — 1st of 77 teams at the Mila × Bell × BuzzHPC ×
 Kids Help Phone AI Safety Hackathon. Real-time conversation safety classification
