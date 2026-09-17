@@ -1,27 +1,65 @@
-### Hi, I'm Yanis
+# Hi, I'm Yanis
 
-Computer Science graduate from Université de Montréal, working at the seam between production software engineering and applied ML. Software engineer at GoTo, research assistant at GEODES, and member of the Cohere Labs Open Science Community.
+AI engineer working on LLM systems in production — agent design, tool and data
+integration, evaluation, and deployment.
 
-### Recent highlights
+**AI Engineer** on Bell's Applied AI team, building and deploying agents on
+Google Cloud with Gemini Enterprise and Antigravity. **ML research assistant** at
+GEODES, the software engineering lab at Université de Montréal. Member of the
+**Cohere Labs Open Science Community**.
 
-**1st of 77 teams** at the Bell x Mila x BuzzHPC x Kids Help Phone AI Safety Hackathon. Built a multilingual guardrail stacking a fine-tuned mmBERT classifier with a Cohere LLM judge using a five-question chain-of-thought framework. **F1 0.906, recall 0.969.** Presented at the CRIM 40th anniversary conference.
+## Selected work
 
-**Research assistant at GEODES** (software engineering lab at Université de Montréal, advised by Prof. Houari Sahraoui). Fine-tuning small open-source LLMs for automated code review with QLoRA / PEFT, and designing evaluation methodologies that benchmark generated reviews against human reviewers.
+**Crisis-detection guardrail** — 1st of 77 teams at the Mila × Bell × BuzzHPC ×
+Kids Help Phone AI Safety Hackathon. Real-time conversation safety classification
+for youth mental health support: a fine-tuned multilingual BERT (mmBERT) feeding
+a Cohere LLM judge through a five-question chain-of-thought framework, with the
+classifier score injected into the prompt as a prior rather than ensembled.
+**F1 0.906, recall 0.969** — the highest recall in the top 10.
 
-**Software engineer at GoTo.** Grown from three internships into an engineering role, shipping production code across frontend architecture (React/TypeScript), backend data pipelines (Java), and infrastructure / quality engineering.
+**Automated code review** — research at GEODES, advised by Prof. Houari Sahraoui.
+Fine-tuning small open-source code models with QLoRA / PEFT to close the quality
+gap with large proprietary models, plus an evaluation methodology that benchmarks
+generated reviews against human reviewers.
 
-**Ubisoft GameLab Competition 2026** as gameplay programmer, representing UdeM. Unreal Engine 5.6, split-screen local multiplayer, player powers.
+**Dynamic pricing in Paris** — ~60,000 Airbnb listings assembled from historical
+snapshots and a custom multithreaded scraper, testing whether explicit temporal
+features improve price prediction. Random Forest, R² 0.525 with uncapped luxury
+listings retained.
 
-### Stack
+## Talks
 
-**Languages:** TypeScript, Python, Java, C++
-**Web:** React, Node.js
-**ML / NLP:** PyTorch, Hugging Face Transformers, QLoRA / PEFT, BERT / mmBERT, LLM fine-tuning, LLM-as-judge evaluation, chain-of-thought prompting
-**Game dev:** Unreal Engine 5, Blueprints
-**Infra:** AWS, CI/CD, observability
+- **AI Tinkerers Montreal** — recall-first safety classifiers for high-stakes settings
+- **CRIM 40th Anniversary Conference** — AI safety for LLMs
 
-### Contact
+## Stack
 
-[LinkedIn](https://linkedin.com/in/yanischalel) · yanis.chalel@umontreal.ca
+**Agents & LLMs** — Python, Gemini, Gemini Enterprise, Antigravity, MCP,
+LLM-as-judge evaluation, chain-of-thought prompting
 
-Open to Software Engineer and ML Engineer roles across Canada.
+**Model training** — PyTorch, Hugging Face Transformers, QLoRA / PEFT, BERT / mmBERT
+
+**Cloud** — Google Cloud Platform (Vertex AI, BigQuery), AWS
+
+**Backend** — Go, Java, Node.js
+
+**Frontend** — TypeScript, React
+
+**Infra** — Kafka, Docker, Kubernetes, CI/CD, Prometheus / Grafana
+
+## Previously
+
+**GoTo** (2024–2026) — three internships into an engineering role. Go/Kafka event
+pipelines, React/TypeScript frontend architecture, Java data pipelines.
+
+**Ubisoft GameLab 2026** — gameplay programmer, Unreal Engine 5 and C++.
+
+BSc Computer Science, Université de Montréal (2022–2026), with an exchange
+semester at the University of Hong Kong.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/yanischalel/) · yanis.chalel@umontreal.ca
+
+Always happy to talk about LLM evaluation, agent design, AI safety, or
+open-science collaborations.
