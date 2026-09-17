@@ -55,7 +55,7 @@ pipelines, React/TypeScript frontend architecture, Java data pipelines.
 **Ubisoft GameLab 2026** — gameplay programmer, Unreal Engine 5 and C++.
 
 BSc Computer Science, Université de Montréal (2022–2026), with an exchange
-semester at the University of Hong Kong.
+semesters at the University of Hong Kong (W2025) and Sorbonne Université (F2025).
 
 ## Contact
 
